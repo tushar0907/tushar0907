@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Kumar</h1>
-<h3 align="center">A dedicated front-end developer with a desire to learn and grow.</h3>
+<h3 align="center">A dedicated Developer with a desire to learn and grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar0907&label=Profile%20views&color=0e75b6&style=flat" alt="tushar0907" /> </p>
 
