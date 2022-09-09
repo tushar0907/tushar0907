@@ -29,7 +29,7 @@ I am Tushar Kumar, an 18 year old tech freak. Below is an overview of what you'l
 [![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar0907&theme=tokyonight)](https://github.com/tushar0907/github-readme-stats)
 
 ### 🚀 My contributions!
-<img src="https://github.com/tushar0907/tushar0907/blob/output/github-contribution-grid-snake.svg" width="500" /><br /><br />
+![Contribution grid snake animation](https://raw.githubusercontent.com/codergirl-al/codergirl-al/output/github-contribution-grid-snake.svg)
 
 ![Profile views](https://gpvc.arturio.dev/tushar0907)
 [![GitHub followers](https://img.shields.io/github/followers/tushar0907.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tushar0907?tab=followers)
