@@ -19,7 +19,7 @@ I am Tushar Kumar, an 18 year old tech freak. Below is an overview of what you'l
 ### ✨ Hobbies
 - 🏃‍♀️ Gym
 - 📚 Reading books
-- 🌎 Learning foreign languages (English, German, French, etc)
+- 🌎 Learning foreign languages (English, German, French, etc.)
 
 ### Stats
 [![Tushar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar0907&theme=tokyonight)](https://github.com/tushar0907/github-readme-streak-stats)
