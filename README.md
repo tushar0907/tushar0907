@@ -23,12 +23,8 @@ I am Tushar Kumar, an 19 year old tech freak. Below is an overview of what you'l
 
 ### Stats
 [![Tushar's github streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar0907&theme=tokyonight)](https://github.com/tushar0907/github-readme-streak-stats)
-[![Tushar's stats](https://github-readme-stats.vercel.app/api?username=tushar0907&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/tushar0907/github-readme-stats)
 
 ### Languages
 [![Tushar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar0907&theme=tokyonight)](https://github.com/tushar0907/github-readme-stats)
-
-### 🚀 My contributions
-![Contribution grid snake animation](https://raw.githubusercontent.com/tushar0907l/tushar0907/output/github-contribution-grid-snake.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/tushar0907.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tushar0907?tab=followers)
