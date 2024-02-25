@@ -1,11 +1,11 @@
 ## Hello friends. 🚀
 
-I am Tushar Kumar, an 19 year old tech freak. Below is an overview of what you'll find on my GitHub
+I am Tushar Kumar, an 21 year old tech freak. Below is an overview of what you'll find on my GitHub
 
 ### 🤓 Current plans and projects I am working on:
 
-- Web Development and Andriod Development
-- Front-end Development (Internship)
+- Web Development and AI Development
+- FullStack Development (Internship)
 
 ### 🛠 Programming languages and technologies I play around with:
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar0907&theme=tokyonight)
