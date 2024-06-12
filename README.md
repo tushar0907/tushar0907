@@ -23,7 +23,6 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
@@ -94,9 +93,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
@@ -107,11 +103,6 @@
 </div>
 
 <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
